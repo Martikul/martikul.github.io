@@ -3,7 +3,7 @@
 [About me](#ABOUT-ME)  
 [My projects](#MY-PROJECTS)  
 [My blog](#MY-BLOG)  
-<a href=#MY=BLOG>Mano Blogas</a>
+<a href="#my-blog">Mano blogas</a>
 <br><br><br>
 # ABOUT ME
 
@@ -42,7 +42,12 @@ Motivated to transition into Quality Assurance, I bring a strong foundation in p
 2. **Install Dependencies:** `[Your Installation Command]`
 3. **Configure Environment:**  Set up any required environment variables or configurations.
 4. **Run Tests:** `[Your Test Execution Command]`
+
+
+   
 <br><br><br>
 # MY BLOG
+
+<h1 id="my-blog" >My BLOG</h1>
 
 Some articles about something (still editing)
