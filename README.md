@@ -11,7 +11,7 @@
 Motivated to transition into Quality Assurance, I bring a strong foundation in product management, sales, and project management, honed through years of experience leading projects focused on quality, efficiency, and customer satisfaction. With a keen eye for detail, commitment to continuous improvement, and strong analytical mindset, I am eager to leverage these skills in a Junior QA role to support the development of reliable, high-quality technology solutions.
 <br><br><br>
 
-<h1 id="my-projects" >My PROJECTS</h1>
+<h1 id="my-projects" >MY PROJECTS</h1>
 <br><br><br>
 
 
@@ -49,6 +49,6 @@ Motivated to transition into Quality Assurance, I bring a strong foundation in p
    
 <br><br><br>
 
-<h1 id="my-blog" >My BLOG</h1>
+<h1 id="my-blog" >MY BLOG</h1>
 
 Some articles about something (still editing)
