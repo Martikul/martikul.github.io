@@ -1,9 +1,4 @@
 
-
-[About me](#ABOUT-ME)  
-[My projects](#MY-PROJECTS)  
-[My blog](#MY-BLOG)  
-<br><br><br>
 <a href="#about-me">ABOUT ME</a>  <br>
 <a href="#my-projects">MY PROJECTS</a>  <br>
 <a href="#my-blog">MY BLOG</a>  <br>
