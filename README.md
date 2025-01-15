@@ -1,8 +1,21 @@
-Motivated to transition into Quality Assurance, I bring a strong foundation in product management, sales, and project management, honed through years of experience leading projects focused on quality, efficiency, and customer satisfaction. With a keen eye for detail, commitment to continuous improvement, and strong analytical mindset, I am eager to leverage these skills in a Junior QA role to support the development of reliable, high-quality technology solutions.
 
-[About me]()  
-[My projects]()  
-[My blog]()  
+
+[About me](# ABOUT-ME)  
+[My projects](# MY-PROJECTS)  
+[My blog](# MY-BLOG)  
+
+#ABOUT ME
+
+Motivated to transition into Quality Assurance, I bring a strong foundation in product management, sales, and project management, honed through years of experience leading projects focused on quality, efficiency, and customer satisfaction. With a keen eye for detail, commitment to continuous improvement, and strong analytical mindset, I am eager to leverage these skills in a Junior QA role to support the development of reliable, high-quality technology solutions.
+<br><br><br>
+# MY PROJECTS
+<br><br><br>
+
+
+
+
+
+
 
 [![Project Logo or Banner]](link-to-image)
 
@@ -28,3 +41,7 @@ Motivated to transition into Quality Assurance, I bring a strong foundation in p
 2. **Install Dependencies:** `[Your Installation Command]`
 3. **Configure Environment:**  Set up any required environment variables or configurations.
 4. **Run Tests:** `[Your Test Execution Command]`
+<br><br><br>
+# MY BLOG
+
+Some articles about something (still editing)
