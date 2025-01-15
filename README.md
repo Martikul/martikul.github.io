@@ -3,6 +3,7 @@
 [About me](#ABOUT-ME)  
 [My projects](#MY-PROJECTS)  
 [My blog](#MY-BLOG)  
+<a href=#MY=BLOG>Mano Blogas</a>
 <br><br><br>
 # ABOUT ME
 
