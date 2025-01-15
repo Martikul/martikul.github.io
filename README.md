@@ -4,9 +4,9 @@
 [My projects](#MY-PROJECTS)  
 [My blog](#MY-BLOG)  
 <br><br><br>
-<a href="#about-me">Mano blogas</a>
-<a href="#my-projects">Mano blogas</a>
-<a href="#my-blog">Mano blogas</a>
+<a href="#about-me">ABOUT ME</a>  
+<a href="#my-projects">MY PROJECTS</a>  
+<a href="#my-blog">MY BLOG</a>  
 <br><br><br>
 # ABOUT ME
 
